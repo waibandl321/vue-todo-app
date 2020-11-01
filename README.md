@@ -1,4 +1,4 @@
-# 説明
+## 説明
 JavaScriptフレームワークVue.jsとlocalStorageを使用して簡易TODOアプリを作成。  
 Vue.jsのv-modelに適用したリッチテキストエディタ(VueQuillEditor)も導入し、Vue.jsならではのイベント処理も実装。  
 
